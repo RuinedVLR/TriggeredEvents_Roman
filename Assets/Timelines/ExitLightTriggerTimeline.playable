@@ -904,7 +904,7 @@ MonoBehaviour:
   m_TrackProperties:
     volume: 1
     stereoPan: 0
-    spatialBlend: 0
+    spatialBlend: 1
 --- !u!114 &-2093626059021908439
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1000,7 +1000,7 @@ MonoBehaviour:
   m_TrackProperties:
     volume: 1
     stereoPan: 0
-    spatialBlend: 0
+    spatialBlend: 1
 --- !u!114 &-2091225683359862835
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1598,7 +1598,7 @@ MonoBehaviour:
   m_TrackProperties:
     volume: 1
     stereoPan: 0
-    spatialBlend: 0
+    spatialBlend: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3253,7 +3253,7 @@ MonoBehaviour:
   m_TrackProperties:
     volume: 1
     stereoPan: 0
-    spatialBlend: 0
+    spatialBlend: 1
 --- !u!114 &5449591443931573906
 MonoBehaviour:
   m_ObjectHideFlags: 1
