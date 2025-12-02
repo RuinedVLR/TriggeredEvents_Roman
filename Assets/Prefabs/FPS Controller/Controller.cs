@@ -45,12 +45,14 @@ public class Controller : MonoBehaviour
     void Awake()
     {
         Instance = this;
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        
 
         m_IsPaused = false;
         m_Grounded = true;
